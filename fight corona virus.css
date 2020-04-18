@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(to top right,#243949,#517FA4);
+   
+}
+*{
+    color: white;
+/*    font-family: 'poppins';*/
+}
+
+.fx{
+    display: flex;
+    padding: 10px;
+}
+
+B{
+    color:#ECC103;
+    font-size: 100px;
+}
+
+span{
+    color: white;
+    font-size: 60px;
+    font-weight: lighter;
+}
+
+H5{
+    text-decoration-line: underline;
+    text-decoration-color: #ECC103;
+}
+
+a:hover{
+/*
+
+    background:#ECC103;
+    border-radius: 50%;
+*/
+
+    font-size: 20px;
+
+   font-weight: bold;
+}
+
+ p.center{
+    position: absolute;
+    top: 76%;
+    left: 15%;
+    text-decoration-color: #ECC103;
+    text-decoration-line: line-through;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+     background: none;
+     font-weight: bolder;
+    
+}
